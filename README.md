@@ -1,10 +1,10 @@
-# All rights Reserved, Designed By www.xysama.cn
+```# All rights Reserved, Designed By www.xysama.cn
 # @projectName huffman en-decoding
 # @author ky0ha     
 # @date   2021.05.29  
 # @version V1.0.0
 # @copyright www.xysama.cn
-# 注意 本内容仅限于学习交流使用，禁止用作商业用途
+# 注意 本内容仅限于学习交流使用，禁止用作商业用途```
 
 哈夫曼编码程序文件
 
